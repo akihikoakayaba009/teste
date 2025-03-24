@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", function () {
   // Mapas para associar os elos e suas respectivas divisões
   const ligas = {
       ferro: {
-          1: "../imagens/elos/ferro 1.png",
-          2: "../imagens/elos/ferro 2.png",
-          3: "../imagens/elos/ferro 3.png"
+          1: "/public/imagens/elos/ferro 1.png",
+          2: "/public/imagens/elos/ferro 2.png",
+          3: "/public/imagens/elos/ferro 3.png"
       },
       bronze: {
           1: "../imagens/elos/bronze1.png",
